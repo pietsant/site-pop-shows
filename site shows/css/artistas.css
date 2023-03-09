@@ -1,0 +1,27 @@
+.artistas{
+    display: flex;
+    flex-direction: column;
+}
+.imgartista{
+max-width: 300px;
+height: 300px;
+}
+.artistas li{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.btn{
+    padding: 12px 16px;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+*{
+    outline: 0px solid red;
+}
+.artista-text{
+    font-size: 19px;
+    color: var(--text-color-contrast);
+}
