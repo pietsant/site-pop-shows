@@ -1,0 +1,20 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.img-social{
+    max-width: 100px;
+    max-height: 100px;
+    gap: 30px;
+}
+.social-list{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 0px;
+}
+.social-list a{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}

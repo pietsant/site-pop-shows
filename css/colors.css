@@ -1,0 +1,7 @@
+:root{
+    --bg-color: black;
+    --primary-color: rgb(59, 115, 228);
+    --secundary-color: rgb(39, 39, 39);
+    --text-color: rgb(255, 255, 255);
+    --text-color-contrast: rgb(163, 163, 163);
+}
